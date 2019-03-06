@@ -1,0 +1,2 @@
+# 忽略pod整个文件，只留下Podfile
+Pod/
